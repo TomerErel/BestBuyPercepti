@@ -1,7 +1,7 @@
 # BestBuyPercepti
 BestBuy Selenium Automation
 
-Using HomeBrew for OS:
+Using HomeBrew for OS: <br>
 brew tap homebrew/cask <br>
 brew cask install chromedriver <br>
 
